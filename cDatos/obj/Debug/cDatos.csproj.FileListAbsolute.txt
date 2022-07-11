@@ -1,0 +1,9 @@
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\bin\Debug\cDatos.dll
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\bin\Debug\cDatos.pdb
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\obj\Debug\cDatos.dll
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\obj\Debug\cDatos.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\bin\Debug\cDatos.dll
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\bin\Debug\cDatos.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Debug\cDatos.csproj.CoreCompileInputs.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Debug\cDatos.dll
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Debug\cDatos.pdb

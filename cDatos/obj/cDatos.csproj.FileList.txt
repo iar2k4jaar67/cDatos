@@ -1,0 +1,10 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Release\ResolveAssemblyReference.cache
+bin\Release\cDatos.dll
+bin\Release\cDatos.pdb
+obj\Release\cDatos.dll
+obj\Release\cDatos.pdb
+bin\Debug\cDatos.dll
+bin\Debug\cDatos.pdb
+obj\Debug\cDatos.dll
+obj\Debug\cDatos.pdb

@@ -1,0 +1,23 @@
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\bin\Release\cDatos.dll
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\bin\Release\cDatos.pdb
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\obj\Release\ResolveAssemblyReference.cache
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\obj\Release\cDatos.dll
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\obj\Release\cDatos.pdb
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\bin\Release\cDatos.dll
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\bin\Release\cDatos.pdb
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\obj\Release\cDatos.dll
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\cDatos\obj\Release\cDatos.pdb
+C:\LibreriasRDMSNET4\cDatos.dll
+C:\LibreriasRDMSNET4\cDatos.pdb
+C:\Proyecto cDatos\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.dll
+C:\Proyecto cDatos\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.pdb
+E:\laptop viejita\IAR\Proyecto cDatos\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.csprojAssemblyReference.cache
+E:\laptop viejita\IAR\Proyecto cDatos\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.csproj.CoreCompileInputs.cache
+E:\laptop viejita\IAR\Proyecto cDatos\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.dll
+E:\laptop viejita\IAR\Proyecto cDatos\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.pdb
+C:\LibreriasPVTA\cDatos.dll
+C:\LibreriasPVTA\cDatos.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.csprojAssemblyReference.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.csproj.CoreCompileInputs.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.dll
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\cDatos\obj\Release\cDatos.pdb

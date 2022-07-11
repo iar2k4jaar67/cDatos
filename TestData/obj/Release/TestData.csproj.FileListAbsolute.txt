@@ -1,0 +1,26 @@
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Release\TestData.exe.config
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Release\TestData.exe
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Release\TestData.pdb
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Release\cDatos.dll
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Release\cDatos.pdb
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Release\ResolveAssemblyReference.cache
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Release\TestData.Form1.resources
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Release\TestData.Properties.Resources.resources
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Release\GenerateResource-ResGen.read.1.tlog
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Release\GenerateResource-ResGen.write.1.tlog
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Release\TestData.exe
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Release\TestData.pdb
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Release\TestData.exe.config
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Release\TestData.exe.config
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Release\TestData.exe
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Release\TestData.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Release\cDatos.dll
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Release\cDatos.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.csprojAssemblyReference.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.Form1.resources
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.Properties.Resources.resources
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.csproj.GenerateResource.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.csproj.CoreCompileInputs.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.csproj.CopyComplete
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.exe
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Release\TestData.pdb

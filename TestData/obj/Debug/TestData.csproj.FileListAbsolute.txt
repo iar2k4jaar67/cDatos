@@ -1,0 +1,27 @@
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Debug\TestData.exe.config
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.exe
+E:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.pdb
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Debug\TestData.exe.config
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Debug\TestData.exe
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Debug\TestData.pdb
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Debug\cDatos.dll
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\bin\Debug\cDatos.pdb
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.csprojResolveAssemblyReference.cache
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.Form1.resources
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.Properties.Resources.resources
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.csproj.GenerateResource.Cache
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.exe
+C:\Proyecto cDatos\Varsion VS 2K10\cDatos\TestData\obj\Debug\TestData.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Debug\TestData.exe.config
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Debug\TestData.exe
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Debug\TestData.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Debug\cDatos.dll
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\bin\Debug\cDatos.pdb
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.csprojAssemblyReference.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.Form1.resources
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.Properties.Resources.resources
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.csproj.GenerateResource.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.csproj.CoreCompileInputs.cache
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.csproj.CopyComplete
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.exe
+D:\IAR\Expo\cDatos VS 2K10 NET 4\cDatos\TestData\obj\Debug\TestData.pdb
