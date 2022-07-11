@@ -1,9 +1,9 @@
+
+// IAR dom 10JUL2022
+// texto agreago para subir cambios en github
+
 using System;
 using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Text;
 using System.Windows.Forms;
 
 
